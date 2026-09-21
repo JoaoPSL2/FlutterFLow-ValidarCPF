@@ -1,7 +1,3 @@
 # ValidarCPF
 
-A new Flutter project.
-
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+Projeto dentro da ferramenta FlutterFlow, com o objetivo de realizar Validação de CPF. Densenvolvido na aula de Now/Low-Code Workflow dentro da faculdade.
